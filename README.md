@@ -33,7 +33,7 @@ clock-component.css
 
 ## Installation
 
-1. Install Visual Studio Code 1.13.0 or higher
+1. Install Visual Studio Code 1.12.0 or higher
 2. Launch Code
 3. From the command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` / `fn`-`F1` (OSX)
 4. Select `Install Extension`
