@@ -44,8 +44,7 @@ clock-component.css
 # Disclaimer
 
 **Important:** This extension due to the nature of it's purpose will create
-files on your hard drive.
-While it should not override any files during this process, I'm not giving any guarantees
+files on your hard drive. While it should not override any files during this process, I'm not giving any guarantees
 or take any responsibility in case of lost data.
 
 # License
