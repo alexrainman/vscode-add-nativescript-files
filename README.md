@@ -38,7 +38,7 @@ clock-component.css
 3. From the command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` / `fn`-`F1` (OSX)
 4. Select `Install Extension`
 5. Type `add nativescript files` and press enter
-6. Click `Install`
+6. Select the extension from the list and click `Install`
 7. Reload Visual Studio Code
 
 # Disclaimer
