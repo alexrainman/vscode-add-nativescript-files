@@ -4,7 +4,7 @@
 
 This extension allows you to add **NativeScript files with snippets included** to your VS Code project.
 
-> Inspired by [Sebastian Baar](https://github.com/sebastianbaar/vscode-add-angular-files).
+> Inspired by [https://github.com/sebastianbaar/vscode-add-angular-files](https://github.com/sebastianbaar/vscode-add-angular-files).
 
 ## Features
 
