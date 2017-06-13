@@ -35,7 +35,7 @@ clock-component.css
 
 1. Install Visual Studio Code 1.12.0 or higher
 2. Launch Code
-3. From the command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` (OSX)
+3. From the command palette `Ctrl`-`Shift`-`P` (Windows, Linux) or `Cmd`-`Shift`-`P` / `fn`-`F1` (OSX)
 4. Select `Install Extension`
 5. Type `add angular files` and press enter
 6. Reload Visual Studio Code
