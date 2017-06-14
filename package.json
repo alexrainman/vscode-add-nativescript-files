@@ -71,5 +71,9 @@
         "mocha": "^2.3.3",
         "@types/node": "^6.0.40",
         "@types/mocha": "^2.2.32"
+    },
+    "dependencies": {
+        "q": "^1.5.0",
+        "path": "^0.12.7"
     }
 }
