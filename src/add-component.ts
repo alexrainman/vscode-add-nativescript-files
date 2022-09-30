@@ -71,7 +71,7 @@ export class AddComponent {
         content: fc.componentCodeContent(inputName)
       },
       {
-        name: path.join(folderName, `${inputName}-component.css`),
+        name: path.join(folderName, `${inputName}-component.scss`),
         content: fc.cssContent(inputName, "component")
       }
     ];
