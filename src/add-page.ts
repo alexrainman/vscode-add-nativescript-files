@@ -75,7 +75,7 @@ export class AddPage {
         content: fc.viewModelContent(inputName)
       },
       {
-        name: path.join(folderName, `${inputName}-page.css`),
+        name: path.join(folderName, `${inputName}-page.scss`),
         content: fc.cssContent(inputName, "page")
       }
     ];
