@@ -20,8 +20,7 @@ export class FileContents {
 
     public pageCodeContent(inputName: string): string {
         var inputUpperCase: string = this.inputToUpperCase(inputName);
-        var pageCodeContent: string = `import { EventData } from 'data/observable';\n` +
-            `import { Page } from 'ui/page';\n` +
+        var pageCodeContent: string = `import { Page, EventData } from '@nativescript/core';\n` +
             `import { ${inputUpperCase}ViewModel } from './${inputName}-view-model';\n` +
             `\n` +
             `export function navigatingTo(args: EventData) {\n` +
@@ -33,7 +32,7 @@ export class FileContents {
 
     public viewModelContent(inputName: string): string {
         var inputUpperCase: string = this.inputToUpperCase(inputName);
-        var viewModelContent: string = `import {Observable} from 'data/observable';\n` +
+        var viewModelContent: string = `import { Observable } from '@nativescript/core';\n` +
             `\n` +
             `export class ${inputUpperCase}ViewModel extends Observable {\n` +
             `\n` +
